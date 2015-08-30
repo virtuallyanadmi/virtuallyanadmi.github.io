@@ -10,7 +10,7 @@ image:
   thumb: gotcha.jpg
 subheadline: Disaster Recovery
 teaser: "Ran into some gotchas doing DR...."
-categories: DR
+categories: VMware
 tags:
 - Disaster Recovery
 - DR
