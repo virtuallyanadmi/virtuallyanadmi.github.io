@@ -56,6 +56,7 @@ paginate_path: "blog/page:num"
 markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title/
 highlight: pygments
+categories: [AWS, Blog, DR, Family, Homelab, Howto, Job, OS, PowerShell, STLVMUG, Training, Travel, Video, VMware]
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
 # Exclude these files from your production _site

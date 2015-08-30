@@ -9,7 +9,7 @@ active: true
 image:
   thumb: typewriter_thumb.jpg
 teaser: "I am going to begin this post by saying with a caveat, sometimes you just need to be patient."
-categories: job
+categories: Job
 tags:
 - AWS
 - Change

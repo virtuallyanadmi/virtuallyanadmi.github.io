@@ -7,7 +7,7 @@ layout: page
 subheadline: "Kids"
 title: "Jensen on 2 wheels for first time"
 teaser: "Jensen riding this bicycle for the first time at his grandparents."
-categories: family
+categories: Family
 tags: video, bicycle, Jensen Stewart, family
 image:
   thumb: Jensen.png
