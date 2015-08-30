@@ -1,0 +1,44 @@
+- name: YouTube
+  url: http://www.youtube.com/virtuallyanadmi
+  class: icon-youtube
+  title: "Videos from Jonathan Stewart"
+
+- name: Twitter
+  url: http://twitter.com/virtuallyanadmi
+  class: icon-twitter
+  title: "Twitter account for Jonathan Stewart"
+
+- name: Facebook
+  url: https://www.facebook.com/going2timbuktu
+  class: icon-facebook
+  title: "Facebook"
+
+- name: Soundcloud
+  url: https://soundcloud.com/jonathan-stewart-70
+  class: icon-soundcloud
+  title: "Soundcloud"
+
+- name: GitHub
+  url: http://github.com/virtuallyanadmi
+  class: icon-github
+  title: Code and more...
+
+- name: Instagram
+  url: https://instagram.com/virtuallyanadmi/
+  class: icon-instagram
+  title: "Instagram"
+
+- name: LinkedIn
+  url: http://www.linkedin.com/in/virtuallyanadmi
+  class: icon-linkedin
+  title: "My LinkedIn profile"
+
+- name: Flickr
+  url: https://www.flickr.com/people/132359970@N02/
+  class: icon-flickr
+  title: "My pictures"
+
+- name: Vimeo
+  url: https://vimeo.com/virtuallyanadmi
+  class: icon-vimeo
+  title: Vimeo profile

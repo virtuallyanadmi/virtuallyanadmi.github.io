@@ -1,0 +1,43 @@
+<aside>
+	<section class="panel radius">
+	<img src="/images/vexpert.png"></img>
+	</section>
+	<section class="panel radius">
+  <h3>Latest Tweets</h3>
+  <a class="twitter-timeline" href="https://twitter.com/virtuallyanadmi" data-widget-id="582707840659292161">Tweets by @virtuallyanadmi</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  <script>
+    (function(w, d, s) {
+      function go(){
+        var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.src = url; js.id = id; js.async = true;
+        $(js).load(function(){
+            getTwitterFeed("virtuallyanadmi", , );
+        });
+        fjs.parentNode.insertBefore(js, fjs);
+      };
+        load('/javascripts/twitter.js', 'recentTweets');
+      }
+      if (w.addEventListener) { w.addEventListener("load", go, false); }
+      else if (w.attachEvent) { w.attachEvent("onload",go); }
+    }(window, document, 'script'));
+  </script>
+</section>
+<section>
+	<iframe src="https://www.cloudcredibility.com/profile/widget/273" width="302px" height="267px" scrolling="No" frameborder="0" align="center"></iframe>
+</section>
+</br>
+<section>
+	<div class="panel radius">
+		<h3>Categories</h3>
+		{% for category in site.categories %}
+			<li style="font-size: {{ category | last | size | times: 100 | divided_by: site.categories.size | plus: 70 }}%">
+				<a href="/{{ category | first | slugize }}/">
+						{{ category | first }}
+				</a>
+			</li>
+		{% endfor %}
+	</div>
+	</section>
+</aside>
