@@ -5,7 +5,7 @@ subheadline: "This is my story..."
 teaser: "I have had many different types of jobs over the past 18 years since graduating high school..."
 permalink: "/info/"
 header:
-  image_fullwidth: clouds.gif
+  image_fullwidth: Clouds.gif
 ---
 
 After high school, I started college at [Southeast Missouri State University (SEMO)](http://www.semo.edu) in Cape Girardeau, MO. I went there thinking I was going to major  in historic preservation. After a couple of semesters, though, I knew this degree was not for me. But during my time there, I met a beautiful young lady by the name of Beth Hancock. I stayed for another three semesters before taking a semester off and changing directions in a whole different thought. I transferred to [Southwestern Assemblies of God University (SAGU)](http://www.sagu.edu) in Waxahachie, TX.

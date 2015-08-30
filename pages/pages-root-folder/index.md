@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: clouds.gif
+  image_fullwidth: Clouds.gif
 widget1:
   title: "Blog & Portfolio"
   url: '/blog/'
@@ -24,10 +24,3 @@ widget3:
   text: 'You can find my code at <a href="http://github.com/virtuallyanadmi">github.com/virtuallyanadmi</a>. I hope to put more Powershell scripts out there soon.'
 permalink: /index.html
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
