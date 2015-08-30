@@ -1,6 +1,6 @@
 ---
 layout: default
-format: page-fullwidth
+format: post
 header:
   image_fullwidth: Clouds.gif
 ---
@@ -32,7 +32,13 @@ header:
 			</p>
 			{% endif %}
 
+      <span itemprop="articleSection">
 			{{ content }}
+			</span>
+
+      {% if page.show_meta == true %}
+			{% include meta_information %}
+			{% endif %}
 
       {% if page.comments == true %}
 			{% include comments %}
