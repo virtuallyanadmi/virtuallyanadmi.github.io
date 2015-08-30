@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Blog Entries on Howto"
 subheadline: "These entries have the category name of Howto"
-permalink: "/Howto/"
+permalink: "/howto/"
 ---
 <ul>
     {% for post in site.categories.Howto %}

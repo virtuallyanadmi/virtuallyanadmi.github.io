@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Blog Entries on Job"
 subheadline: "These entries have the category name of Job"
-permalink: "/Job/"
+permalink: "/job/"
 ---
 <ul>
     {% for post in site.categories.Job %}

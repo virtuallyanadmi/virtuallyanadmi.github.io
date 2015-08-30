@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Blog Entries on VMware"
 subheadline: "These entries have the category name of VMware"
-permalink: "/VMware/"
+permalink: "/vmware/"
 ---
 <ul>
     {% for post in site.categories.VMware %}

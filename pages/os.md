@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Blog Entries on OS"
 subheadline: "These entries have the category name of OS"
-permalink: "/OS/"
+permalink: "/os/"
 ---
 <ul>
     {% for post in site.categories.OS %}

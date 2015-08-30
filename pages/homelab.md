@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Blog Entries on Homelab"
 subheadline: "These entries have the category name of Homelab"
-permalink: "/Homelab/"
+permalink: "/homelab/"
 ---
 <ul>
     {% for post in site.categories.Homelab %}

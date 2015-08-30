@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Blog Entries on PowerShell"
 subheadline: "These entries have the category name of PowerShell"
-permalink: "/PowerShell/"
+permalink: "/powershell/"
 ---
 <ul>
     {% for post in site.categories.PowerShell %}

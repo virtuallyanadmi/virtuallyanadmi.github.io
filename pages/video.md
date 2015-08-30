@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Blog Entries on Videos"
 subheadline: "These entries have the category name of Video"
-permalink: "/Video/"
+permalink: "/video/"
 ---
 <ul>
     {% for post in site.categories.Video %}

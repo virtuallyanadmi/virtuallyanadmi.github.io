@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Blog Entries on Family"
 subheadline: "These entries have the category name of Family"
-permalink: "/Family/"
+permalink: "/family/"
 ---
 <ul>
     {% for post in site.categories.Family %}
