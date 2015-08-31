@@ -1,12 +1,9 @@
 ---
-layout: page
+layout: category
 show_meta: false
 title: "Blog Entries on Travel"
-subheadline: "These entries have the category name of Travel"
+subheadline: "Check out these entries on Travel"
 permalink: "/travel/"
+category: travel
+sidebar: right
 ---
-<ul>
-    {% for post in site.categories.Travel %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>

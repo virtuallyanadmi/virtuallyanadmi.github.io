@@ -1,12 +1,9 @@
 ---
-layout: page
+layout: category
 show_meta: false
 title: "Blog Entries on Job"
-subheadline: "These entries have the category name of Job"
+subheadline: "Check out these entries on Job"
 permalink: "/job/"
+category: job
+sidebar: right
 ---
-<ul>
-    {% for post in site.categories.Job %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>

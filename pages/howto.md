@@ -1,12 +1,9 @@
 ---
-layout: page
+layout: category
 show_meta: false
 title: "Blog Entries on Howto"
-subheadline: "These entries have the category name of Howto"
+subheadline: "Check out these entries on Howto"
 permalink: "/howto/"
+category: howto
+sidebar: right
 ---
-<ul>
-    {% for post in site.categories.Howto %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>

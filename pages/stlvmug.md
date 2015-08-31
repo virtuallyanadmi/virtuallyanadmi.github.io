@@ -1,12 +1,9 @@
 ---
-layout: page
+layout: category
 show_meta: false
 title: "Blog Entries on STLVMUG"
-subheadline: "These entries have the category name of STLVMUG"
+subheadline: "Check out these entries on STLVMUG"
 permalink: "/stlvmug/"
+category: stlvmug
+sidebar: right
 ---
-<ul>
-    {% for post in site.categories.STLVMUG %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>

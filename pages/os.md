@@ -1,12 +1,9 @@
 ---
-layout: page
+layout: category
 show_meta: false
 title: "Blog Entries on OS"
-subheadline: "These entries have the category name of OS"
+subheadline: "Check out these entries on OS"
 permalink: "/os/"
+category: os
+sidebar: right
 ---
-<ul>
-    {% for post in site.categories.OS %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
