@@ -3,7 +3,7 @@ layout: page
 title: "Third times a charm"
 date: "2015-08-31"
 image:
-  thumb: vexpert.jpg
+  thumb: vexpert.png
 subheadline: vExpert
 teaser: "I have been giving to the community for a while, now the community has given back. It only took three times..."
 category: vmware
@@ -19,4 +19,4 @@ Some of you may know that I am one of the co-leaders of the [St. Louis VMware Us
 
 If you missed the [keynote](http://www.vmworld.com/en/index.html#4455051811001) this morning at [VMWorld](http://www.vmworld.com), VMware showcased cross-cloud vMotion, Containerization, and further progress on the Software Defined Datacenter (SDDC). I encourage you to watch it.
 
-I look forward to what is in store the next year as I learn more and I hope to give back even more to this community. 
+I look forward to what is in store the next year as I learn more and I hope to give back even more to this community.
