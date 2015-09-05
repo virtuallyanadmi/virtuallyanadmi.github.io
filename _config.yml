@@ -167,13 +167,13 @@ msapplication_tilecolor:                "#fabb00"
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           "website.png"
-og_locale:                          "en_EN"
-og_type:                            "website"
-og_title:                           "Virtually an Admin"
-og_description:                     "Jonathan Stewart's blog on Administrating in the Cloud"
-og_url:                             "http://virtuallyanadmin.com"
-og_site_name:                       "Virtually an Admin"
+og_image: website.png
+og_locale: "en_EN"
+og_type: "website"
+og_title: "Virtually an Admin"
+og_description: "Jonathan Stewart's blog on Administrating in the Cloud"
+og_url: "http://virtuallyanadmin.com"
+og_site_name: "Virtually an Admin"
 
 
 #      _____            _       __   __  ___         ___
