@@ -19,7 +19,7 @@ tags:
   - Yellowstone
   - Idaho Falls
   - Salt Lake City
-  - Vernon
+  - Vernal
   - Dinosaur National Monument
   - Glenwood Springs
 ---
