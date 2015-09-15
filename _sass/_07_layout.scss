@@ -91,6 +91,9 @@ body.video cite { color: #fff; }
     #logo img {
         display: none;
     }
+    #gravatar img {
+        display: none;
+    }
     #masthead {
         height: 200px;
     }
@@ -118,6 +121,14 @@ body.video cite { color: #fff; }
     #logo img {
         margin-top: 60px;
     }
+    #gravatar img {
+        margin-top: 60px;
+        position: absolute;
+        right: 0px;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        border-radius: 50%;
+    }
     #masthead {
         height: 280px;
     }
@@ -141,6 +152,14 @@ body.video cite { color: #fff; }
     #logo img {
         margin-top: 80px;
     }
+    #gravatar img {
+        margin-top: 80px;
+        position: absolute;
+        right: 0px;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        border-radius: 50%;
+    }
     #masthead {
         height: 310px;
     }
@@ -163,6 +182,14 @@ body.video cite { color: #fff; }
 @media #{$xlarge-up} {
     #logo img {
         margin-top: 110px;
+    }
+    #gravatar img {
+        margin-top: 110px;
+        position: absolute;
+        right: 0px;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        border-radius: 50%;
     }
     #masthead {
         height: 380px;
