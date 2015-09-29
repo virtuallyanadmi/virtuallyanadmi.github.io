@@ -21,7 +21,7 @@ At work, I transitioned back to the Internal Cloud team almost a month ago. Sinc
 <!--more-->
 So I have built out a form framework that uses the .Net Windows.Systems.Forms coding to give a form to use against one of our 9 vCenters. I will go into more details on it in future blog posts but what I wanted to highlight in this one is the PowerCLI cmdlet  `Get-VICredentialStoreItem`.
 
-`Get-VICredentialStoreItem` is a great way to store credentials for vCenters. I found out about by reading an [article]("http://tech.zsoldier.com/2011/09/save-powercli-login-credentials-to-xml.html") by [@Zsoldier](http://twitter.com/Zsoldier) that outlined how to use it a couple of years ago and have used it since.
+`Get-VICredentialStoreItem` is a great way to store credentials for vCenters. I found out about by reading an [article](http://tech.zsoldier.com/2011/09/save-powercli-login-credentials-to-xml.html) by [@Zsoldier](http://twitter.com/Zsoldier) that outlined how to use it a couple of years ago and have used it since.
 
 With as many vCenters that we have and could add to down the road, I keep a CSV with vCenters/vCloud Director and Environment that they are in. It looks similar to this:
 
