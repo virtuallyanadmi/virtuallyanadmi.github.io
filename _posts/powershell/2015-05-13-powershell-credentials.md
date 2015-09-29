@@ -69,8 +69,8 @@ if ( (Get-PSSnapin -Name VMware.VimAutomation.Core -ErrorAction SilentlyContinue
 Add-PSsnapin VMware.VimAutomation.Core
 }
 $CSV = Import-CSV "Servers.csv"
-$creds = Get-VICredentialStoreItem -File "filename.xml"
 foreach ($server in $CSV.Servers) {
+  $creds = Get-VICredentialStoreItem -File "filename.xml" -Host $server
   Connect-VIServer $creds.Host -User $creds.User -Password $creds.Password
   Do actions and functions
 }
