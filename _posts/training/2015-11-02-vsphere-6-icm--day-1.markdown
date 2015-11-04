@@ -19,6 +19,7 @@ tags:
 ---
 
 This is a series on some training I have done. Here are the links in the series:
+
 * [Part 1](http://virtuallyanadmin.com/training/2015/11/02/vsphere-6-icm--day-1/)
 * [Part 2](http://virtuallyanadmin.com/training/2015/11/03/vsphere-6-icm--day-2/)
 
