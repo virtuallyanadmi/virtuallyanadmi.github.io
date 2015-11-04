@@ -18,6 +18,10 @@ tags:
   - Install, Configure, Manage
 ---
 
+This is a series on some training I have done. Here are the links in the series:
+* [Part 1](http://virtuallyanadmin.com/training/2015/11/02/vsphere-6-icm--day-1/)
+* [Part 2](http://virtuallyanadmin.com/training/2015/11/03/vsphere-6-icm--day-2/)
+
 *First, I want to apologize as this may be long. But I wanted to be thorough in my covering of the training class.*
 
 So my company has brought in [New Horizons](http://www.newhorizons.com/) to give us training on vSphere 6. They chose the [Install, Configure, Manage](https://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&a=one&id_subject=60901) course as we have multiple departments participating in the training, everything from Networking to Linux to Storage to the Internal Cloud team that I am on are participating in the course.
@@ -37,4 +41,4 @@ More lecture followed about vCenter and it's components. This part of the lectur
 
 Then we delved into the final couple of labs. This third lab was about setting up the vCenter. We were told to work with our partner (which we had been assigned to earlier in the day) and setup vCenter. First things first, we had to install the Client Integration Plugin for Firefox. This is easy to do as you just connect to the vCenter website and the download link shows up at the bottom of the page if it is not installed already. Download and install the plugin and you are good to go. Then we logged into the vCenter via the web client and added a license for it, for the ESXi servers and started some of the configuration. The fourth lab of the day played off of the third lab as we added our ESXi host assigned to us and licensed it. Pretty simple stuff but still relevant to what the class is.
 
-Now that our environment is up and going, I expect tomorrow to be more in-depth on vSphere 6 and I think it will be good even for those of us who have already been using the product for a while. So tune in hopefully tomorrow to see part 2 of this series.
+Now that our environment is up and going, I expect tomorrow to be more in-depth on vSphere 6 and I think it will be good even for those of us who have already been using the product for a while. So tune in hopefully tomorrow to see [part 2](http://virtuallyanadmin.com/training/2015/11/03/vsphere-6-icm--day-2/) of this series.

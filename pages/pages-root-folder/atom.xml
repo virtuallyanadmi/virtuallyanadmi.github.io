@@ -7,7 +7,7 @@ permalink: /atom.xml
 <?xml-stylesheet type="text/xsl" href="{{ site.baseurl }}/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="{{ site.baseurl }}/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>{{ site.url }}{{ site.baseurl }}/</id>
+	<id>http://virtuallyanadmin.com/</id>
 	<title>{{ site.title | xml_escape }}</title>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 
