@@ -20,8 +20,9 @@ tags:
 
 This is a series on some training I have done. Here are the links in the series:
 
-- [Part 1](http://virtuallyanadmin.com/training/2015/11/02/vsphere-6-icm--day-1/)
-- [Part 2](http://virtuallyanadmin.com/training/2015/11/03/vsphere-6-icm--day-2/)
+- [Part 1](/training/2015/11/02/vsphere-6-icm--day-1/)
+- [Part 2](/training/2015/11/03/vsphere-6-icm--day-2/)
+- [Part 3](/training/2015/11/04/vsphere-6-icm--day-3/)
 
 So yesterday was all about the basics, today the class was broken into 3 subjects, folders, networking and storage.
 
