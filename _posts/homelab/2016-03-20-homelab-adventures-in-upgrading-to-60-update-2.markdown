@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Homelab adventures in upgrading to 6.0 Update 2"
 date: "2016-03-20"
 comments: true
