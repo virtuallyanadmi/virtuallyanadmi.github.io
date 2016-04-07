@@ -3,7 +3,7 @@ layout: page
 title: "Hello Linux on Windows"
 date: "2016-04-06"
 image:
-  thumb: bash-windows.png
+  thumb: windows-ubuntu.png
 subheadline: Microsoft releases bash to Windows
 teaser: "Here's how to get bash installed on Windows, if you are running in Insider Preview of Windows 10."
 category: windows
