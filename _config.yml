@@ -67,6 +67,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - Rakefile
 
 
 # The language setting is used in /includes/header.html for html-settings
@@ -238,3 +239,5 @@ google_analytics_tracking_id: UA-22361832-1
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
+gems:
+  - jekyll-paginate
