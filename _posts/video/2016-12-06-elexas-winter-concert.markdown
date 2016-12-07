@@ -7,7 +7,7 @@ subheadline: FHMS Winter Choir Concert 2016
 isPost: true
 active: true
 image:
-  thumb: https://i.ytimg.com/vi/B-G7mMM-j38/hqdefault.jpg
+  thumb: WConcert.jpg
 teaser: "Elexa singing her heart out at the winter choir concert."
 categories: Video
 tags:
