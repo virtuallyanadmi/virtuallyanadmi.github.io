@@ -1,8 +1,8 @@
 ---
 title: "Resume"
-layout: redirect
+layout: page-fullwidth
 sitemap: false
 permalink: /resume/
-redirect_to:  "http://resume.linkedinlabs.com/245i6ipb3"
+
 ---
-Here is my resume. Enjoy.
+<iframe src="http://docs.google.com/gview?url=http://virtuallyanadmin.com/assets/JonathanStewart.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
